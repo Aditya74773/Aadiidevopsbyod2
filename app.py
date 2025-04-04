@@ -1,2 +1,1 @@
-Hello, Git!
-# Git Practice
+print('Conflict from feature branch')
